@@ -1,7 +1,7 @@
-# PERN Final Project Template
+# Getting Started With The CTA - 8.1 Guide
 
-- select `use this template`
-- clone this repo
+- select `use this template` in [this repo](https://github.com/joinpursuit/pern-final-project-template) and follow the usual steps.
+- clone down your version of the repo.
 
 ## Getting Started
 
@@ -155,7 +155,7 @@ Go to Netlify, choose `New site from Git`
 - choose continuos deployment, GitHub.
 - configure the Netlify app on GitHub
 
-Follow the prompts to add this project repo to Netlify
+Follow the prompts to add your project repo to Netlify
 Once, authorized, configure to launch app from
 
 - Base directory: `front-end`
