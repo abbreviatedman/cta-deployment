@@ -61,10 +61,10 @@ Fix bugs.
 
 When ready:
 
+- `cd` to the root directory.
 - `heroku create`
 - `git add .`
 - `git commit -m 'heroku deployment`
-- `cd` to the root directory.
 - `git subtree push --prefix back-end heroku main` - if this does not work, go to Heroku dashboard => deployment and add the remote ie `heroku git:remote -a <your-heroku-app-name>`.
 
 Open your Heroku app. You should see the `Hello, world!` message.
